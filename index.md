@@ -27,7 +27,7 @@ The screenshots show [demo mode](#demo-mode), so the data in them is made up.
 
 ## Setting up your race
 
-<img src="images/race_setup.png" width="270" alt="Race setup: race name, division, race date, plan start and the evening rotation">
+<img src="images/race_setup.png" width="240" alt="Race setup: race name, division, race date, plan start and the evening rotation">
 
 On first launch you enter the race: its name, division and date, and when
 training starts. The plan runs from the start date to race day in Monday to
@@ -46,7 +46,7 @@ from the race card at the top of the Plan tab.
 
 ## Today
 
-<img src="images/today.png" width="270" alt="Today: race countdown and a rest day">
+<img src="images/today.png" width="240" alt="Today: race countdown and a rest day">
 
 The top card counts down to the race and shows where you are: the week,
 the phase and whether it is a deload week.
@@ -63,7 +63,7 @@ On a rest day it says so and shows the next session.
 
 ## Plan
 
-<img src="images/plan.png" width="270" alt="Plan: weeks with their sessions"> <img src="images/week.png" width="270" alt="A week: deload switch and its evenings">
+<img src="images/plan.png" width="240" alt="Plan: weeks with their sessions"> <img src="images/week.png" width="240" alt="A week: deload switch and its evenings">
 
 The Plan tab lists every week with its sessions, and opens on the current week.
 Tap a session to see it in full.
@@ -85,7 +85,7 @@ first.
 
 ## Logging a workout
 
-<img src="images/log_workout.png" width="270" alt="Logging a tempo run, with live heart rate"> <img src="images/session_done.png" width="270" alt="A logged session with effort, heart rate and logged values">
+<img src="images/log_workout.png" width="240" alt="Logging a tempo run, with live heart rate"> <img src="images/session_done.png" width="240" alt="A logged session with effort, heart rate and logged values">
 
 **Log workout** opens a form already filled in from the plan, so logging a
 session as planned takes three taps: effort, then Save.
@@ -104,7 +104,7 @@ average and max heart rate and time in each zone. **Edit log** changes it;
 
 ## Workouts outside the plan
 
-<img src="images/extra_workout.png" width="270" alt="Logging a floorball session outside the plan">
+<img src="images/extra_workout.png" width="240" alt="Logging a floorball session outside the plan">
 
 For training that isn't in the plan, such as floorball or an extra run, tap
 **Log a workout outside the plan** on Today, or **Log a workout** on the Log tab.
@@ -116,14 +116,14 @@ not towards how much of the plan you've done.
 
 ## Log
 
-<img src="images/log.png" width="270" alt="Log: past sessions, newest first">
+<img src="images/log.png" width="240" alt="Log: past sessions, newest first">
 
 The Log tab lists everything you've done or skipped, newest first, with the
 effort and how much was logged. Tap one to see it or edit its log.
 
 ## Progress
 
-<img src="images/progress.png" width="270" alt="Progress: this week, phases and shortcuts"> <img src="images/progress_charts.png" width="270" alt="Progress charts: running and sessions per week">
+<img src="images/progress.png" width="240" alt="Progress: this week, phases and shortcuts"> <img src="images/progress_charts.png" width="240" alt="Progress charts: running and sessions per week">
 
 At the top: this week, how many sessions are done, and how far you've run. The
 strip below shows the phases, with this week marked.
@@ -137,7 +137,7 @@ simulator.
 
 ## Benchmarks
 
-<img src="images/benchmarks.png" width="270" alt="Benchmarks: exercises with latest and best"> <img src="images/benchmark_trend.png" width="270" alt="SkiErg trend over three results">
+<img src="images/benchmarks.png" width="240" alt="Benchmarks: exercises with latest and best"> <img src="images/benchmark_trend.png" width="240" alt="SkiErg trend over three results">
 
 Record tests such as a SkiErg 1000 m time or a 5-rep deadlift: the eight
 stations, 1 and 5 km runs and the main lifts, or anything else you name. Each
@@ -145,7 +145,7 @@ exercise shows its latest and best result, and a trend once it has two.
 
 ## Race simulator
 
-<img src="images/simulator_setup.png" width="270" alt="Simulator setup: presets and segments"> <img src="images/simulator_run.png" width="270" alt="A simulation running, with heart rate and target">
+<img src="images/simulator_setup.png" width="240" alt="Simulator setup: presets and segments"> <img src="images/simulator_run.png" width="240" alt="A simulation running, with heart rate and target">
 
 Time a full race, either half, or any segments you pick (**Clear** unticks them
 all). The run screen has one big button: **Start**, then **Next** as each run
@@ -156,7 +156,7 @@ lock the phone or the app is closed. With a strap, heart rate is recorded too,
 and with [goal splits](#goal-splits) each segment shows its target and your
 share.
 
-<img src="images/simulation.png" width="270" alt="A saved simulation with heart rate"> <img src="images/compare.png" width="270" alt="Two simulations compared segment by segment">
+<img src="images/simulation.png" width="240" alt="A saved simulation with heart rate"> <img src="images/compare.png" width="240" alt="Two simulations compared segment by segment">
 
 Save a finished simulation with notes. Saved ones list newest first, and any
 two can be compared segment by segment: which got faster or slower, and by
@@ -164,7 +164,7 @@ how much.
 
 ## Goal splits
 
-<img src="images/goal_splits.png" width="270" alt="Goal splits: a goal spread over segments with station shares">
+<img src="images/goal_splits.png" width="240" alt="Goal splits: a goal spread over segments with station shares">
 
 Set a goal time and **Spread goal** shares it across the 16 segments; adjust
 any target after. For each station, write down your share of the work as
@@ -173,7 +173,7 @@ the plan as text.
 
 ## Heart rate
 
-<img src="images/heart_rate.png" width="270" alt="Heart rate settings with Karvonen zones">
+<img src="images/heart_rate.png" width="240" alt="Heart rate settings with Karvonen zones">
 
 Set your **max heart rate**, and your **resting** heart rate if you use
 Karvonen zones. Zones are either a share of max, or Karvonen: resting plus a
