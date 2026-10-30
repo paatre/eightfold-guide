@@ -27,18 +27,24 @@ The screenshots show [demo mode](#demo-mode), so the data in them is made up.
 
 ## Setting up your race
 
-<img src="images/race_setup.png" width="240" alt="Race setup: race name, division, race date, plan start and the evening rotation">
+<img src="images/race_setup.png" width="240" alt="Race setup: race name, division, race date, plan start and a one-week evening schedule">
 
 On first launch you enter the race: its name, division and date, and when
 training starts. The plan runs from the start date to race day in Monday to
 Sunday weeks.
 
-**Evenings** describe your two-week rhythm. Tap a day to switch it between:
+**Evenings** describe your usual week. Tap a day to switch it between:
 
 - **Free:** gym and run sessions go here.
 - **Home:** only home sessions, such as evenings with the kids.
 - **Sport:** another sport, such as floorball. It gets its own session, and
   planned training stays off it.
+
+If your weeks differ, such as a two-week custody rhythm, use **+** to make the
+schedule repeat every two weeks, or up to eight. Each week then has its own
+row, and **Same as previous week** copies the week above it: four weeks of one
+pattern and four of another is an eight-week schedule. **Week 1 starts** sets
+which Monday the schedule counts from.
 
 Saving builds the whole plan: base, build, race-specific and taper phases,
 with a lighter deload week every fourth week. You can edit all of this later
