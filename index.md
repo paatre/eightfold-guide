@@ -192,9 +192,11 @@ Put the strap on (it wakes when the electrodes are moist), pick it from the
 list and save. The app asks for Android's *Nearby devices* permission the first
 time, and never for location.
 
-The live heart rate then shows when logging and in the simulator. It says
-**No skin contact** when the strap is off and **Strap disconnected** if the
-connection drops, and reconnects by itself.
+The live heart rate then shows when logging and in the simulator. If the strap
+isn't on, it says **No strap** with a **Connect** button to try again once
+you've put it on. It says **No skin contact** when the strap comes off, and
+**Strap disconnected** if the connection drops, and then reconnects by itself
+for a couple of minutes.
 
 ## Morning check
 
@@ -225,8 +227,11 @@ the setup screen has **Restore** too.
 
 To show the app without your own data, turn on **Demo mode** from the ⋮ menu on
 Today. The app then shows a plan well under way, with logs, heart rate,
-benchmarks and simulations, and a demo strap for live heart rate.
+benchmarks, simulations and morning checks, and a demo strap for live heart
+rate. In demo mode the heart rate settings can also be set to no strap, or to
+a real one such as your H10.
 
 Demo data lives separately: your own data isn't touched, and turning demo mode
-off (from the menu or the banner) brings it back as it was. **Reset demo data**
-starts the demo afresh from today. Backups are off in demo mode.
+off (from the menu or the banner) brings it back as it was. What you log or
+record in demo mode stays with the demo, until **Reset demo data** starts it
+afresh from today. Backups are off in demo mode.
