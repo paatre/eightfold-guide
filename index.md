@@ -22,6 +22,7 @@ The screenshots show [demo mode](#demo-mode), so the data in them is made up.
 - [Race simulator](#race-simulator)
 - [Goal splits](#goal-splits)
 - [Heart rate](#heart-rate)
+- [Morning check](#morning-check)
 - [Backup](#backup)
 - [Demo mode](#demo-mode)
 
@@ -194,6 +195,24 @@ time, and never for location.
 The live heart rate then shows when logging and in the simulator. It says
 **No skin contact** when the strap is off and **Strap disconnected** if the
 connection drops, and reconnects by itself.
+
+## Morning check
+
+<img src="images/morning_check.png" width="240" alt="Morning checks: today's HRV and resting heart rate against the normal range, with trends">
+
+With a strap, Today has a **Morning check** card. Soon after waking up, put
+the strap on, lie still and tap **Check now**: after 30 seconds to settle, the
+app measures for 2 minutes. It shows your **HRV** (heart rate variability, as
+RMSSD in milliseconds) and your **resting heart rate**.
+
+After five checks, the app knows your normal range from the last 30 days, and
+says how today compares: *normal for you*, *higher than usual*, or *lower than
+usual: consider an easier day*. A low HRV often follows hard training, poor
+sleep or a coming cold. Tap the card for the trend over the weeks.
+
+Lie still for the whole check. If too many beats are missed, for example when
+the strap is dry, the app asks you to try again. A second check on the same
+day replaces the first.
 
 ## Backup
 
