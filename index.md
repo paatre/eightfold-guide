@@ -17,6 +17,7 @@ The screenshots show [demo mode](#demo-mode), so the data in them is made up.
 - [Logging a workout](#logging-a-workout)
 - [Workouts outside the plan](#workouts-outside-the-plan)
 - [Log](#log)
+- [Import from a watch](#import-from-a-watch)
 - [Progress](#progress)
 - [Benchmarks](#benchmarks)
 - [Race simulator](#race-simulator)
@@ -127,6 +128,32 @@ not towards how much of the plan you've done.
 
 The Log tab lists everything you've done or skipped, newest first, with the
 effort and how much was logged. Tap one to see it or edit its log.
+
+## Import from a watch
+
+Workouts recorded on a watch, such as a Polar Pacer Pro, can be brought in
+afterwards through Android's **Health Connect**. First turn on Health Connect
+in the watch's app (in Polar Flow: settings, then Health Connect), and let the
+watch sync.
+
+On the Log tab, tap the watch button. The first time, **Allow** lets Eightfold
+read workouts, heart rate, speed and distance from Health Connect. It reads
+only when you import and never writes there. The list shows the last 30 days.
+Other apps write to Health Connect too, such as walks Google Fit notices, so
+chips above the list choose which apps' workouts show: at first only Polar
+Flow. Tap a workout to see what it brings: time, distance, pace, heart rate and
+laps. Then:
+
+- **Fill in** a session of that day: the log form opens with the watch's time,
+  distance and heart rate filled in. Pick the effort and save. In a session of
+  several parts, such as intervals, only heart rate is filled in, and the
+  watch's totals show at the top.
+- **Log as a workout outside the plan**, for training that isn't in the plan.
+- **Save as a simulation**, when you pressed lap at every run and station: 16
+  laps make the full race, 8 either half, to compare with your other
+  simulations and goal splits.
+
+A workout that was imported is marked and isn't offered again.
 
 ## Progress
 
